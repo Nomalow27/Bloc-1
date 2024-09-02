@@ -10,7 +10,7 @@ Les méthodes HTTP GET et POST diffèrent ainsi :
 
 ## Question 2
 
-|   |   Get       |  Post |
+|.   |   Get       |  Post |
 | Visibilité  | Visible pour l’utilisateur dans le champ d’adresse             |   invisible pour l’utilisateur |
 | Marque-page et historique de navigation  | Les paramètres de l’URL sont stockés en même temps que l’URL       |    L’URL est enregistrée sans paramètres URL |
 | Cache et fichier log du serveur  |   Les paramètres de l’URL sont stockés sans chiffrement      |  Les paramètres de l’URL ne sont pas enregistrés automatiquement |
