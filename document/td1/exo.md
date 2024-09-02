@@ -1,5 +1,7 @@
-#TD1
-##Question 1 
+# TD1
+
+## Question 1 
+
 Les méthodes HTTP GET et POST diffèrent ainsi :
 
 - GET : Récupère des données. Les paramètres sont dans l'URL, visibles et limités en taille. Idéal pour des requêtes simples, comme une recherche.
