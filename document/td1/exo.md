@@ -29,3 +29,11 @@ HTTP est un protocole sans état, ce qui signifie que chaque requête est indép
 
 ### Question 5
 
+Une URL se compose des parties suivantes :
+
+- Protocole (https://) : Indique le type de connexion (sécurisée ou non).
+- Nom d'hôte (www.example.com) : Spécifie le serveur où la ressource est hébergée.
+- Port (:8080) : (Optionnel) Précise le port du serveur à utiliser. Par défaut, HTTP utilise le port 80 et HTTPS le port 443.
+- Chemin (/path/to/resource) : Définit l'emplacement de la ressource sur le serveur.
+- Paramètres de requête (?query=example) : (Optionnel) Fournit des données supplémentaires pour la requête.
+- Fragment (#section) : (Optionnel) Indique une section spécifique dans la ressource, comme une partie d'une page web.
