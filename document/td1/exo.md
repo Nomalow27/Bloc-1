@@ -25,3 +25,7 @@ Le protocole HTTP est extensible grâce à sa capacité à intégrer de nouvelle
 
 ### Question 4
 
+HTTP est un protocole sans état, ce qui signifie que chaque requête est indépendante, et le serveur ne conserve aucune information sur les interactions précédentes. Cela implique que pour maintenir la continuité d'une session (comme rester connecté à un compte), des mécanismes comme les cookies ou les identifiants de session sont nécessaires. Cette caractéristique simplifie la gestion des serveurs et facilite la scalabilité, mais elle oblige à inclure toutes les informations nécessaires dans chaque requête.
+
+### Question 5
+
