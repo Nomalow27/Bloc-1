@@ -40,3 +40,24 @@ Une URL se compose des parties suivantes :
 
 ### Question 6
 
+Voici les familles de codes de statut HTTP :
+
+-1xx - Informations
+
+100 Continue : Le client peut continuer à envoyer le reste de la requête.
+-2xx - Succès
+
+200 OK : La requête a réussi et la réponse contient les informations demandées.
+201 Created : Une nouvelle ressource a été créée avec succès.
+-3xx - Redirection
+
+301 Moved Permanently : La ressource a été déplacée définitivement à une nouvelle URL.
+302 Found : La ressource a été temporairement déplacée à une nouvelle URL.
+-4xx - Erreur du client
+
+404 Not Found : La ressource demandée est introuvable.
+403 Forbidden : L'accès à la ressource est interdit.
+-5xx - Erreur du serveur
+
+500 Internal Server Error : Erreur interne du serveur empêchant le traitement de la requête.
+502 Bad Gateway : Le serveur a reçu une réponse invalide d'un autre serveur.
