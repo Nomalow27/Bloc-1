@@ -37,3 +37,6 @@ Une URL se compose des parties suivantes :
 - Chemin (/path/to/resource) : Définit l'emplacement de la ressource sur le serveur.
 - Paramètres de requête (?query=example) : (Optionnel) Fournit des données supplémentaires pour la requête.
 - Fragment (#section) : (Optionnel) Indique une section spécifique dans la ressource, comme une partie d'une page web.
+
+### Question 6
+
